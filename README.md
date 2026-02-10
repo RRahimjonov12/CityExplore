@@ -10,3 +10,4 @@ This project is a small PHP app for exploring world cities. It helped me practic
 - Basic pagination and navigation patterns.
 - Styling a clean UI with layered CSS.
 # CityExplore
+# CityExplore
